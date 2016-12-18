@@ -10,6 +10,7 @@ Manipulação de imagem.
 
 <hr>
 <img src='https://s5.postimg.org/whfw4735z/woman_smoke_2.jpg' width="50%" heigth="50%" align="center">
+<p><a href="https://s5.postimg.org/whfw4735z/woman_smoke_2.jpg">Original image :: 3000x2600px</a></p>
 <hr>
 <b>Tools</b>
 <ol>
