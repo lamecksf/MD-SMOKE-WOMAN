@@ -1,7 +1,7 @@
 # MD-SMOKE-WOMAN
 
 Manipulação de imagem.
-<br><b>MY DESIN�SMOKE WOMAN</b>-<small>Com base em Phosohop School Graphic Designers</small>
+<br><b>MY DESIN SMOKE WOMAN</b>-<small>Com base em Phosohop School Graphic Designers</small>
 
 <pre>
 <b>Adobe portfolio:</b> <a href="https://www.behance.net/gallery/46477473/Graphic-Design-Woman">Lameckf-Designer</a><br>
